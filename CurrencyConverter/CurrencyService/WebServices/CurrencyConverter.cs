@@ -1,8 +1,9 @@
-﻿using Server.Services;
+﻿using CurrencyService.Logger;
+using CurrencyService.Services;
 using System;
 using System.Text.RegularExpressions;
 
-namespace Server
+namespace CurrencyService
 {
     public class CurrencyConverter : ICurrencyConverter
     {

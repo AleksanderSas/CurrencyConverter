@@ -1,7 +1,8 @@
+using CurrencyService;
+using CurrencyService.Logger;
+using CurrencyService.Services;
 using Moq;
 using NUnit.Framework;
-using Server;
-using Server.Services;
 
 namespace CurrencyServiceTest
 {

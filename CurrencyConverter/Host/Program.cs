@@ -1,5 +1,5 @@
-﻿using Server;
-using Server.DependencyInjection;
+﻿using CurrencyService;
+using CurrencyService.DependencyInjection;
 using System;
 using System.ServiceModel;
 using System.ServiceModel.Description;

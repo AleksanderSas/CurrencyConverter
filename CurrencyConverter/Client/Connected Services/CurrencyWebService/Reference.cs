@@ -15,7 +15,7 @@ namespace Client.CurrencyWebService {
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
-    [System.Runtime.Serialization.DataContractAttribute(Name="RequestResult", Namespace="http://schemas.datacontract.org/2004/07/Server")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="RequestResult", Namespace="http://schemas.datacontract.org/2004/07/CurrencyService")]
     [System.SerializableAttribute()]
     public partial class RequestResult : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
         

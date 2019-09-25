@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace Server.Services
+namespace CurrencyService.Services
 {
     internal class CurrencyConverterService : ICurrencyConverterService
     {

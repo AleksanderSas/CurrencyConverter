@@ -1,5 +1,5 @@
 ﻿
-namespace Server
+namespace CurrencyService.Logger
 {
     public interface ILogger
     {

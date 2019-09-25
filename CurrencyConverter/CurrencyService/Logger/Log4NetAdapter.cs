@@ -1,6 +1,6 @@
 ﻿using log4net;
 
-namespace Server
+namespace CurrencyService.Logger
 {
     class Log4NetAdapter : ILogger
     {

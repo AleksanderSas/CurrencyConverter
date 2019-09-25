@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Server
+namespace CurrencyService
 {
     [DataContract]
     public class RequestResult

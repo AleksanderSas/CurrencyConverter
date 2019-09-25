@@ -1,7 +1,8 @@
-﻿using Server.Services;
+﻿using CurrencyService.Logger;
+using CurrencyService.Services;
 using Unity;
 
-namespace Server.DependencyInjection
+namespace CurrencyService.DependencyInjection
 {
     public static class UnityModule
     {

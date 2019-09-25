@@ -1,5 +1,5 @@
 ﻿
-namespace Server.Services
+namespace CurrencyService.Services
 {
     public interface ICurrencyConverterService
     {

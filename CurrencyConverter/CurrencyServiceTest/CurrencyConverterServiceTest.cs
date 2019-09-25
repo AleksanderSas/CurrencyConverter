@@ -1,5 +1,5 @@
-﻿using NUnit.Framework;
-using Server.Services;
+﻿using CurrencyService.Services;
+using NUnit.Framework;
 
 namespace CurrencyServiceTest
 {

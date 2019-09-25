@@ -1,6 +1,6 @@
 ﻿using System.ServiceModel;
 
-namespace Server
+namespace CurrencyService
 {
     [ServiceContract]
     public interface ICurrencyConverter

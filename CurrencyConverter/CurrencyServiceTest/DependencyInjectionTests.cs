@@ -1,7 +1,6 @@
-﻿using NUnit.Framework;
-using Server;
-using Server.DependencyInjection;
-using Server.Services;
+﻿using CurrencyService;
+using CurrencyService.DependencyInjection;
+using NUnit.Framework;
 using System;
 using Unity;
 

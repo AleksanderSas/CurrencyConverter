@@ -76,7 +76,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Server\CurrencyService.csproj">
+    <ProjectReference Include="..\CurrencyService\CurrencyService.csproj">
       <Project>{dd89b963-b174-4774-a140-ca3722007a2e}</Project>
       <Name>CurrencyService</Name>
     </ProjectReference>

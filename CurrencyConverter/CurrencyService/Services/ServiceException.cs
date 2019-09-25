@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Server
+namespace CurrencyService.Services
 {
     class ServiceException : Exception
     {

@@ -138,7 +138,7 @@
     <xsd:schema targetNamespace="http://tempuri.org/Imports">
       <xsd:import schemaLocation="http://localhost:8000/services/?xsd=xsd0" namespace="http://tempuri.org/" />
       <xsd:import schemaLocation="http://localhost:8000/services/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
-      <xsd:import schemaLocation="http://localhost:8000/services/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Server" />
+      <xsd:import schemaLocation="http://localhost:8000/services/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/CurrencyService" />
     </xsd:schema>
   </wsdl:types>
   <wsdl:message name="ICurrencyConverter_Convert_InputMessage">
